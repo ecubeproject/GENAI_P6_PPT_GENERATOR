@@ -1,2 +1,2 @@
 # GENAI_P6_PPT_GENERATOR
-This is a powerpoint generator that uses openAI API and Dalle-3 API to produce powerpoint presentation based on text prompt given by user. Contains a progress bar so that user can see the progress of process.
+This is a powerpoint generator stramlit app that uses openAI API and Dalle-3 API to produce powerpoint presentation based on text prompt given by user. It takes as input the number of slides the user wants to generate and dynamically creates text box to enter prompt. At the click of a button PPT generation process begins and app reports when process is completed. The output text, title and image are placed on slides without any overlapping.
